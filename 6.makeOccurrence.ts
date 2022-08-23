@@ -11,7 +11,8 @@ import { OccurrenceMaker } from "./classes/OccurrenceMaker";
 // const debateName = "정시확대";
 // const debateName = "정시확대clipped";
 // const debateName = "모병제";
-const debateName = "모병제clipped";
+// const debateName = "모병제clipped";
+const debateName = "지방소멸";
 
 // paths
 const pathOfutteranceObjects = `../data/${debateName}/utterance_objects.json`;

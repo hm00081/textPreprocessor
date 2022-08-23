@@ -15,7 +15,8 @@ import stringSimilarity from "string-similarity";
 // const debateName = "정시확대";
 // const debateName = "모병제";
 // const debateName = "기본소득clipped";
-const debateName = "집값";
+// const debateName = "집값";
+const debateName = "지방소멸";
 
 interface VrewSpoken {
   spoken: string;

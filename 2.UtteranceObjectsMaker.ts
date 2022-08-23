@@ -8,8 +8,8 @@ import { UtteranceObject } from "../interfaces/interfaces";
 // const debateName = "정시확대clipped";
 // const debateName = "모병제";
 // const debateName = "모병제clipped";
+// const debateName = "지방소멸";
 const debateName = "지방소멸";
-// const debateName = "집값";
 // const debateName = "정년연장";
 
 // path of sample

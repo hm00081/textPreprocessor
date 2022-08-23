@@ -11,7 +11,8 @@ const makeCosineSimilarity = require("compute-cosine-similarity");
 // const debateName = "정시확대";
 // const debateName = "정시확대clipped";
 // const debateName = "모병제";
-const debateName = "모병제clipped";
+// const debateName = "모병제clipped";
+const debateName = "지방소멸";
 
 // paths
 const pathOfSingleSimilarityMatrix = `../data/${debateName}/single_term/similarity_matrix.json`;
